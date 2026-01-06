@@ -1,9 +1,10 @@
 number = 9
 
-remainder  = 9 / 2
+remainder  = number % 2
 
 if remainder ==1:
-  print("odd")
+   print("odd")
 
 else:
-  print("even")
+    print("even")
+
